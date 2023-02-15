@@ -2,9 +2,12 @@
 
 I am very passionate about technology and math. Currently exploring the Data Science world.
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusriale&show_icons=true&theme=tokyonight&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusriale&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/matheusriale)
 
-
+<div>
+  <a href="https://github.com/matheusriale">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusriale&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusriale&layout=compact&theme=tokyonight&langs_count=6"/>
+</div>
 
 
 #### Contact me:
