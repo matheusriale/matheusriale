@@ -3,7 +3,9 @@
 
 I am very passionate about technology and math. Currently exploring the Data Science world.
 
-🇧🇷 🇬🇧 🇫🇷
+🇧🇷🇬🇧🇫🇷
+
+:scorpius:
 
 #### Contact me:
 
