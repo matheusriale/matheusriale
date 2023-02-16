@@ -2,7 +2,6 @@
 
 I am very passionate about technology and math. Currently exploring the Data Science world.
 
-
 <div>
   <a href="https://github.com/matheusriale">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusriale&show_icons=true&theme=tokyonight&count_private=true"/>
@@ -14,7 +13,6 @@ I am very passionate about technology and math. Currently exploring the Data Sci
 <a href = "mailto:matheusriale@alu.ufc.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheusribeiroalencar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <br>
-
 
 #### Skills:
 
