@@ -4,7 +4,7 @@ I am very passionate about technology and math. Currently exploring the Data Sci
 
 <div>
   <a href="https://github.com/matheusriale">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusriale&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusriale&show_icons=true&theme=tokyonight&"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusriale&layout=compact&theme=tokyonight&langs_count=6"/>
 </div>
 
