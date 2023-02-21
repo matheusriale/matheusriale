@@ -1,6 +1,6 @@
 ##  Hi I am Matheus Ribeiro! ✌️ 
 
-I am very passionate about technology and math. Currently exploring the Data Science world.
+I am very passionate about technology and math. Computer Science 3rd year student at Federal University of Ceará, currently exploring the Data Science world.
 
 <div>
   <a href="https://github.com/matheusriale">
