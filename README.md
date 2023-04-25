@@ -4,8 +4,8 @@ I am an undergraduate Computer Science student at Federal University of Ceará I
 
 <div>
   <a href="https://github.com/matheusriale">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matheusriale&show_icons=true&theme=tokyonight&"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusriale&layout=compact&theme=tokyonight&langs_count=6"/>
+  <img height="165em" src="[https://github-readme-stats.vercel.app](https://readmestats.999857.xyz)/api?username=matheusriale&show_icons=true&theme=tokyonight&"/>
+  <img height="165em" src="[https://github-readme-stats.vercel.app](https://readmestats.999857.xyz)/api/top-langs/?username=matheusriale&layout=compact&theme=tokyonight&langs_count=6"/>
 </div>
 
 #### Contact me:
