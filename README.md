@@ -1,4 +1,4 @@
-##  Hi I am Matheus Ribeiro! ✌️ 
+##  Hi I am Matheus Ribeiro!
 
 I am an undergraduate Computer Science student at Federal University of Ceará I am also very passionate about technology and math. Currently exploring the Data Science world.
 
