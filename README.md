@@ -1,6 +1,6 @@
 ##  Hi I am Matheus Ribeiro!
 
-I am an undergraduate Computer Science student at Federal University of Ceará I am also very passionate about technology and math. Currently exploring the Data Science world.
+Bachelor's degree of science in Computer Science at Federal University of Ceará I am also very passionate about technology and math. Currently exploring the Data Science world.
 
 <div>
   <a href="https://github.com/matheusriale">
